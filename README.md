@@ -7,7 +7,7 @@
 
     • Table of HEX codes:
 
-     •………Name………|………………………HEX…………|
+     •………Name………|………………………HEX…………………………|
 
      •ON 				0x7
      •OFF      			0x6      
@@ -23,7 +23,7 @@
      •BTN				0x11
      •BTN6				0x14
      •BTN7				0x15
-     •BTN8				0x16
+     •BTN8      				0x16
      •BTN9				0x18
      •BTN10				0x19
      •BTN11				0x1A			
@@ -32,6 +32,6 @@
      •Blue				0xA			
      •GREEN			   	0x9				
      •RED 				0x8    		
-     •BRIGHTNESS_P	    0x0			
+     •BRIGHTNESS_P	                 0x0			
 
 
