@@ -7,7 +7,7 @@
 
     • Table of HEX codes:
 
-     Name|…………HEX…………………………|
+     Name|HEX|
 
    
      CH 0xFF629D
