@@ -7,7 +7,7 @@
 
     • Table of HEX codes:
 
-     •………Name………|………………HEX…………|
+     •………Name………|………………………HEX…………|
 
      •ON 				0x7
      •OFF      			0x6      
